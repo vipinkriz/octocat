@@ -1,0 +1,40 @@
+Git is not installed by default in Ubuntu but is available in the default package repository. To install it, just run the following command at the terminal and you're set to go. 
+
+
+
+osDocs
+You are here: osDocs » General » Operating System » Ubuntu » How to install Git client in Ubuntu
+How to install Git client in Ubuntu
+
+Git is a distributed version control system which is free and open source. Git is similar though not completely the same as other versioning system such as CVS, Subversion or Mercurial.
+
+Git is not installed by default in Ubuntu but is available in the default package repository. To install it, just run the following command at the terminal and you're set to go.
+
+sudo apt-get install git-core
+
+You can now run git from the command line. The following example is to copy a repository.
+
+git clone username@host:/path/to/repo local_dir
+
+If you prefer to use GUI-based Git client, you can choose any of the following package to install;
+
+    gitk
+    giggle
+    git-cola
+    git-gui
+    gitg
+
+And if you wish to install all the GUI-based Git clients, run this command :)
+
+sudo apt-get install gitk giggle git-cola git-gui gitg
+
+Video tutorial
+comments powered by Disqus
+
+    Back to top
+    Oseems Solutions
+    osApps
+
+
+
+
