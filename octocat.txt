@@ -1,0 +1,5 @@
+In this case we want the diff of our most recent commit, which we can refer to using the HEAD pointer.
+
+In this case we want the diff of our most recent commit, which we can refer to using the HEAD pointer.
+
+In this case we want the diff of our most recent commit, which we can refer to using the HEAD pointer.
